@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-08T08:59:03 IST" name="Suite" finished-at="2020-09-08T08:59:03 IST" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2020-09-08T08:59:03 IST" name="Test" finished-at="2020-09-08T08:59:03 IST" duration-ms="27">
+      <class name="JDProjects.Mavenjava.RestAPITest">
+        <test-method signature="RestAPIAutomation2()[pri:0, instance:JDProjects.Mavenjava.RestAPITest@6ab7a896]" started-at="2020-09-08T08:59:03 IST" name="RestAPIAutomation2" finished-at="2020-09-08T08:59:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIAutomation2 -->
+        <test-method signature="RestAPIAutomation1()[pri:0, instance:JDProjects.Mavenjava.RestAPITest@6ab7a896]" started-at="2020-09-08T08:59:03 IST" name="RestAPIAutomation1" finished-at="2020-09-08T08:59:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPIAutomation1 -->
+      </class> <!-- JDProjects.Mavenjava.RestAPITest -->
+      <class name="JDProjects.Mavenjava.AppiumTest">
+        <test-method signature="MobileAutomation1()[pri:0, instance:JDProjects.Mavenjava.AppiumTest@15761df8]" started-at="2020-09-08T08:59:03 IST" name="MobileAutomation1" finished-at="2020-09-08T08:59:03 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation1 -->
+        <test-method signature="MobileAutomation2()[pri:0, instance:JDProjects.Mavenjava.AppiumTest@15761df8]" started-at="2020-09-08T08:59:03 IST" name="MobileAutomation2" finished-at="2020-09-08T08:59:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileAutomation2 -->
+      </class> <!-- JDProjects.Mavenjava.AppiumTest -->
+      <class name="JDProjects.Mavenjava.SeleniumTest">
+        <test-method signature="BrowserAutomation1()[pri:0, instance:JDProjects.Mavenjava.SeleniumTest@327b636c]" started-at="2020-09-08T08:59:03 IST" name="BrowserAutomation1" finished-at="2020-09-08T08:59:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation1 -->
+        <test-method signature="BrowserAutomation2()[pri:0, instance:JDProjects.Mavenjava.SeleniumTest@327b636c]" started-at="2020-09-08T08:59:03 IST" name="BrowserAutomation2" finished-at="2020-09-08T08:59:03 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation2 -->
+      </class> <!-- JDProjects.Mavenjava.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
